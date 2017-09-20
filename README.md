@@ -1,2 +1,4 @@
 # Adventure-of-Ball
-Sizler için eğlenceli zaman geçirmelik ve üzerinde kendi çalışmalarınızı yapabileceğiniz bir proje.
+Fizik tabanlı bir 3d platformer oyunu. 
+Daha çok bir oyun nasıl yapılır onu öğrenmek amacıyla yaptım.
+Sizlerin de faydalanabilmesi için paylaşıyorum.
