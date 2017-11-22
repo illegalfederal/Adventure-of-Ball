@@ -26,6 +26,7 @@ public class UI : MonoBehaviour {
     void Start()
     {
         ballCharacter = GameObject.Find("Character");
+        // Pasif objeleri çekebilmek için yaptım.
         pausePanel = transform.Find("Canvas/Panel Pause").gameObject;
         TimePanel = transform.Find("Canvas/Panel Fail").gameObject;
         fillImg = GameObject.Find("Canvas/Timer").GetComponent<Image>();
